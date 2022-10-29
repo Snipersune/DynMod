@@ -1,0 +1,13 @@
+# Ignore some macOS generated file
+**/.DS_Store
+
+# Ignore plots and data files
+**/plots/*
+**/data/*
+
+# Keep all .gitkeep files
+!**/.gitkeep
+
+# Ignore test files
+test.*
+
